@@ -14,7 +14,7 @@ https://rashmi-shree.github.io/modalforms/
 
 ## Installation
 
-git clone https://github.com/rashmi-shree/3droom.git
+git clone https://github.com/rashmi-shree/modalforms.git
 
 Open the index.html file in your browser to see the application in action.
 
